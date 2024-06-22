@@ -1,4 +1,4 @@
-
+![TinyTots_logo_white_background](https://github.com/EmiLyGal/TinyTots_website/blob/main/TinyTots_logo1.png)
 <h1 align=center>Tiny Tots Website</h1> 
 
 <a href="">View the live project here</a>
