@@ -41,8 +41,9 @@ This project represents the main marketing site of Tiny Tots, which runs groups 
 
 ## Features
 ### Colour Scheme
-        -   Colour used in project is combination of shades of purple and beige. Colour purple is a mix of pink/red and blue which represent colours for a baby boy and a baby girl
-        <img src="" width="100" height="93" alt="TinyTots_colour_palett">
+-   Colour used in project is combination of shades of purple and beige. Colour purple is a mix of pink/red and blue which represent colours for a baby boy and a baby girl
+<img src="https://github.com/EmiLyGal/TinyTots_website/blob/main/media/coolers_colour_palette_for_TinyTots.PNG" alt="TinyTots_colour_palett">
+
 ### Typography
 
 
