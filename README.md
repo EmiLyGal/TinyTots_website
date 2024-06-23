@@ -29,7 +29,7 @@ This project represents the main marketing site of Tiny Tots, which runs groups 
 
 ### User story
 #### 1. As a new visitor:
-- I want to easily find information on courses, prices and dates
+- I want to easily find information on courses, prices and dates,
 - I want to look for accreditation from authorities, for recommendations from other parents, 
 - I want to have a possibility of getting in contact with company if I have any doubts or questions.
 
@@ -40,6 +40,11 @@ This project represents the main marketing site of Tiny Tots, which runs groups 
 - I want to have a gift option when I buy course.
 
 ## Features
+### Colour Scheme
+        -   Colour used in project is combination of shades of purple and beige. Colour purple is a mix of pink/red and blue which represent colours for a baby boy and a baby girl
+        <img src="" width="100" height="93" alt="TinyTots_colour_palett">
+### Typography
+
 
 ### Frameworks, Libraries & Programs Used
 1. [Google Fonts:](https://fonts.google.com/)
