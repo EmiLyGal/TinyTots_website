@@ -34,7 +34,20 @@ This project represents the main marketing site of Tiny Tots, which runs groups 
 - I want to have a possibility of getting in contact with company if I have any doubts or questions.
 
 #### 2. As a returning visitor:
-- I want to easily find available courses and groups, commence dates,
+- I want to find easily available courses and groups, commence dates,
 - I want to find community links,
 - I want to sign up on course without further hassle of calling,
-- I want to have a gift option when I buy course
+- I want to have a gift option when I buy course.
+
+## Features
+
+### Frameworks, Libraries & Programs Used
+1. [Google Fonts:](https://fonts.google.com/)
+   - Google fonts were used to import the "Josefin Sans" font into the style.css
+file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+   - Font Awesome was used to add the Internet's icons and toolkit throughout the project.
+1. [Canva](https://www.canva.com/)
+   - Canva was used to create the logo for the project.
+1. [Coolers](https://coolors.co/)
+   - Coolers was used to get inspired with colours and generate the colour palette for the project.
